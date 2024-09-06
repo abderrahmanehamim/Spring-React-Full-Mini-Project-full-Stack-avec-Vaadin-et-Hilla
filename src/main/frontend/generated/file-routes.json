@@ -1,0 +1,12 @@
+[
+  {
+    "route": "",
+    "params": {},
+    "title": "index"
+  },
+  {
+    "route": "chat-ai",
+    "params": {},
+    "title": "Chat Ai"
+  }
+]
